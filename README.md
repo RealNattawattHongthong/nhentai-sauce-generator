@@ -1,5 +1,10 @@
 # nhentai Code and link Generator!
 ## This Project has 3 languages English Japanese and Thai!
+## install instructions
+you need python to use the program
+1.install python
+2.go to the library installers to install the required libraries
+3.run the file!
 ## English
 this is a Number Generator/Link Generator for the popular website nhentai.<br>
 to reduce the time for finding the sauce for masturbation.<br>
