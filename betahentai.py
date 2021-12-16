@@ -27,4 +27,3 @@ while True:
   exite = input("generate again? y/n")
   if exite == "n":
     break
-
