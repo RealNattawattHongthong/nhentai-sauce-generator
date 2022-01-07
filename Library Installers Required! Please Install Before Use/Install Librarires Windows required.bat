@@ -8,6 +8,7 @@ pip install Pillow
 pip install pyperclip
 pip install requests
 pip install io
+pip install colorama
 timeout 5 > null 
 echo installing...
 del null

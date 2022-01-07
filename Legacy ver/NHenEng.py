@@ -13,7 +13,6 @@ print("*******************")
 show_img = input("show image preview? y/n:")
 auto = input("Auto open link in browser? if no it will only copy the number in clipboard y/n:")
 def gen():
-
   for i in range(1):
     r1 = r.randint(1, 3)
     r2 = r.randint(0, 9)
