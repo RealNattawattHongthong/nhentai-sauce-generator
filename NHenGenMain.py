@@ -69,7 +69,7 @@ def gen():
       f.writelines("tags:"+ preview.description)
       f.writelines("\n")
       f.writelines("\n")
-    print("Saved the numbers in the file named 6DigitCodeArchives.txt you can click on it to view")
+    print("Saved the description in the file named 6DigitCodeArchives.txt you can click on it to view")
     with open('6DigitCodeArchives.txt', 'a') as f:
       f.writelines(allr)
       f.writelines("\n")
