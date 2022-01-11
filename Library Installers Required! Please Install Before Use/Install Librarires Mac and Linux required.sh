@@ -2,12 +2,12 @@
 echo Checking Python Version!
 timeout 5 > null
 echo install required libraries
-pip install linkpreview
-pip install webbrowser
-pip install Pillow
-pip install pyperclip
-pip install requests
-pip install io
+pip3 install linkpreview
+pip3 install webbrowser
+pip3 install Pillow
+pip3 install pyperclip
+pip3 install requests
+pip3 install io
 timeout 5 > null 
 echo installing...
 del null
